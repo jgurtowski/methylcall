@@ -1,0 +1,6 @@
+
+Scripts for finding DMRs with Methylseq
+
+Takes the output from bsmooth-align
+
+Requires ectools
